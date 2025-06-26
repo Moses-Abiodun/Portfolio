@@ -12,11 +12,17 @@ Hello! I'm Kassim Moses 🤓, a data analyst, educator, and consultant with a pa
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Business Intelligence & Dashboarding.**
+Designing dynamic dashboards for real-time insights
+KPI tracking for sales, marketing, operations, and finance. 
 
+**- ✅ Data Cleaning and Transformation.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
 
-
+**- ✅Exploratory Data Analysis (EDA).**
+Identifying patterns, trends, and outliers
+Generating summary statistics and visual insights
+Correlation analysis and hypothesis testing
 
 
 ## CONTACT DETAILS
